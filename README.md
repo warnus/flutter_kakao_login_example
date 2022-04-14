@@ -1,16 +1,5 @@
-# flutter_kakao_login
 
-A new Flutter project.
+Flutter에서 kakao_flutter_sdk를 이용하여 카카오 로그인을 하는 예제 코드입니다.
+상세 설명은 다음 블로그를 참고 하시기 바랍니다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://vlee.kr/4986
